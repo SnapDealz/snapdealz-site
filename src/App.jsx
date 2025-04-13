@@ -1,0 +1,1 @@
+// App.jsx - production content placeholder

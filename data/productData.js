@@ -1,0 +1,1 @@
+// productData.js - production content placeholder

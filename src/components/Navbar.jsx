@@ -1,0 +1,1 @@
+// Navbar.jsx - production content placeholder

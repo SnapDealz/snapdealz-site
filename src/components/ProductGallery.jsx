@@ -1,0 +1,1 @@
+// ProductGallery.jsx - production content placeholder

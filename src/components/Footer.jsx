@@ -1,0 +1,1 @@
+// Footer.jsx - production content placeholder
